@@ -3,6 +3,8 @@
 
 # Assignment instructions:
 
+## Timebox: **3h** or **7h** with optional tasks.
+
 Create a functional app that can fetch a list of countries and detailed information about them by using the REST API endpoint: [https://restcountries.com](https://restcountries.com). This app is in no way a ready state, so the goal is the following - **finish it, make it readable, expandable, and testable by applying best practices**.
 
 ## Things to do:
